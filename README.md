@@ -2,8 +2,6 @@
 
 A Fabric mod for Minecraft that extends Cobblemon with competitive PvP gameplay, rewards, and cross-server functionality.
 
-![Rival Rumble](https://via.placeholder.com/800x400?text=Rival+Rumble) <!-- Replace with actual banner image -->
-
 ## Features
 
 - **Player Battles**: Challenge other players to Pokémon battles
