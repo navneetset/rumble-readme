@@ -46,14 +46,3 @@ Detailed configuration options can be found in the [Setup Guide](SETUP.md).
 For multi-server setups, Rival Rumble uses Redis to synchronize player data and validate requirements across servers. This ensures players meet the entry requirements (minimum party level, no blacklisted Pokémon, sufficient balance) before joining any server in your network.
 
 See the [Setup Guide](SETUP.md) for detailed instructions on configuring Redis.
-
-## Support
-
-If you encounter any issues or have questions, please:
-
-- Open an issue on our GitHub repository
-- Join our Discord server for community support
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
