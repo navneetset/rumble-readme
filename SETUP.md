@@ -240,10 +240,4 @@ For servers with many players:
 2. Adjust `batchInterval` for message processing
 3. Optimize timeout values
 
-## Support
-
-For further assistance, join our Discord server or open an issue on our GitHub repository.
-
----
-
 *This guide is for Rival Rumble version 1.0.0 and may change with future updates.* 
