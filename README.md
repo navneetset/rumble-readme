@@ -29,7 +29,7 @@ A Fabric mod for Minecraft that extends Cobblemon with competitive PvP gameplay,
 
 ## Configuration
 
-Detailed configuration options can be found in the [Setup Guide](docs/SETUP.md).
+Detailed configuration options can be found in the [Setup Guide](SETUP.md).
 
 ## Commands
 
@@ -45,7 +45,7 @@ Detailed configuration options can be found in the [Setup Guide](docs/SETUP.md).
 
 For multi-server setups, Rival Rumble uses Redis to synchronize player data and validate requirements across servers. This ensures players meet the entry requirements (minimum party level, no blacklisted Pokémon, sufficient balance) before joining any server in your network.
 
-See the [Setup Guide](docs/SETUP.md) for detailed instructions on configuring Redis.
+See the [Setup Guide](SETUP.md) for detailed instructions on configuring Redis.
 
 ## Support
 
